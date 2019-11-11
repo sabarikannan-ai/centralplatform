@@ -1,0 +1,6 @@
+README.md
+setup.py
+centralplatform.egg-info/PKG-INFO
+centralplatform.egg-info/SOURCES.txt
+centralplatform.egg-info/dependency_links.txt
+centralplatform.egg-info/top_level.txt
